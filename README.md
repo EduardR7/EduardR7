@@ -1,5 +1,10 @@
 
-<h3 align="center"> Data science 👩🏽‍💻 👹, analytics 📊, kaggle 🏄 👻 👽 🤖 </h3>
+<h3 align="center"> 
+  <p> Data science 👩🏽‍💻 👹</p>
+  <p>
+  <p> analytics 📊 </p> 
+  <p>
+  <p> kaggle 🏄 👻 👽 🤖 </p> </h3>
 <!--
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 -->
