@@ -1,5 +1,5 @@
 <!--
-<h3 align="center"> 
+<h1 align="center"> 
   <p> Data science 👩🏽‍💻 👹</p>
   <p>
   <p> analytics 📊 </p> 
