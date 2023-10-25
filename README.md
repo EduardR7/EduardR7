@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h3 align="center"> Data 👩🏽‍💻 , and all about this</h3>
 <!--
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulchuk&label=Profile%20views&color=0e75b6&style=flat" alt="bulchuk" /> </p>
-
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EduardR7&label=Profile%20views&color=0e75b6&style=flat" alt="EduardR7" /> </p>
+<!--
 - 💻 I’m currently learning **Machine Learning & NLP**
 
 - 💬 Ask me about **data analysis, a/b-test, data visualisation**
