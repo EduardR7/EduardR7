@@ -8,9 +8,9 @@
   <p> analytics 📊 </p> 
   <p>
   <p> kaggle 🏄 👻  🤖 </p> </h3>
-<!--
+
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
--->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduardR7&label=Profile%20views&color=0e75b6&style=flat" alt="EduardR7" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,13 +21,11 @@
 <a href="mailto:erotar@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/96/gmail-new.png" alt="erotar@gmail.com" height="40" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/numpy.png" alt="numpy" width="40" height="40"/> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>  <a href="https://plotly.com/graphing-libraries/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly" width="40" height="40"/> </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="110" height="40"/> </a>
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/tableau-software.png" alt="tableau" width="40" height="40"/> </a> <a href="https://cloud.yandex.ru/services/datalens" target="_blank" rel="noreferrer"> <img src="https://yadashboard.com/wp-content/uploads/2023/06/yandex-datalens-3.jpg" alt="datalens" width="110" height="40"/> </a> </p> <tab></tab><tab></tab>
 
-<!--
 <h3 align="left">My freelance projects:</h3>
 
 | Project | Description | Libraries&Skills | Project Status |
