@@ -1,30 +1,17 @@
-<!--
+<h3 align="center"> 
+  <p> Data science 👩🏽‍💻 👹,data analytics 📊 👻
+  <p> projects 👽 & kaggle 🏄 🤖 </p> </h3>
+  <!--
 <h1 align="center"> 
   <p> Data science 👩🏽‍💻 👹</p>
   <p>
   <p> analytics 📊 </p> 
   <p>
-  <p> kaggle 🏄 👻 👽 🤖 </p> </h3>
-  -->
-
-<h3 align="center"> 
-  <p> Data science 👩🏽‍💻 👹, analytics 👻 👽 📊, kaggle 🏄 🤖 </p> </h3>
-  
+  <p> kaggle 🏄 👻  🤖 </p> </h3>
 <!--
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduardR7&label=Profile%20views&color=0e75b6&style=flat" alt="EduardR7" /> </p>
-<!--
-- 💻 I’m currently learning **Machine Learning & NLP**
-
-- 💬 Ask me about **data analysis, a/b-test, data visualisation**
-
-- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/14owMDNrDOkuetv1wrm8VpHf9jeO7NYha/view?usp=sharing)**
-
-- 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cultures** 
-
-- 😍 My motto **"Life is journey!"**
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
