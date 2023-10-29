@@ -1,6 +1,6 @@
-<h3 align="center"> 
+<b align="center"> 
   <p> Data science 👩🏽‍💻 👹,data analytics 📊 👻
-  <p> projects 👽 & kaggle 🏄 🤖 </p> </h3>
+  <p> projects 👽 & kaggle 🏄 🤖 </p> </b>
   <!--
 <h1 align="center"> 
   <p> Data science 👩🏽‍💻 👹</p>
