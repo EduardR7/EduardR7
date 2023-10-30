@@ -1,7 +1,8 @@
 <b align="center"> 
-  <p> Data science 👩🏽‍💻 👹,data analytics 📊 👻
-  <p> projects 👽 & kaggle 🏄 🤖 </p> </b>
+  <p> Data science 👩🏽‍💻, data analytics 📊
   <!--
+    <p> projects 👽 & kaggle 🏄 🤖 </p> </b>
+  
 <h1 align="center"> 
   <p> Data science 👩🏽‍💻 👹</p>
   <p>
